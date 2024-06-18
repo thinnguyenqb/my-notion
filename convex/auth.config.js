@@ -1,7 +1,7 @@
 export default {
   providers:[
     {
-      domain:'https://equal-moth-69.clerk.accounts.dev',
+      domain:'https://sure-elk-84.clerk.accounts.dev',
       applicationID:"convex", 
     }
   ]
